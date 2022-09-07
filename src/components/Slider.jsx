@@ -28,6 +28,7 @@ const Slider = () => {
     return () => {
       pauseSlider()
     }
+    // eslint-disable-next-line
   }, [])
 
   const startSlider = () => {
