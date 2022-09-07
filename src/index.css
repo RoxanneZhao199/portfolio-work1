@@ -11,7 +11,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .fade-anim img {
+.fade-anim img {
   animation: fadeAnim 0.5s ease-out;
 }
 @keyframes fadeAnim {
@@ -21,4 +21,4 @@
   to {
     opacity: 1;
   }
-} */
+}
